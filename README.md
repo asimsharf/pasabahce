@@ -19,5 +19,3 @@
 - export PATH="$PATH":"$HOME/.pub-cache/bin"
 - flutterfire configure
 - flutter build apk --release --no-sound-null-safety
-
-- git clone https://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@github.com/asimsharf/pasabahce.git
